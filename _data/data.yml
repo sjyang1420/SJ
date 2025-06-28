@@ -59,15 +59,15 @@ education:
     - degree: Ph.D. in the School of Electrical and Electronic Engineering
     university: University of Yonsei
     time: 2022 - 
-    details:
+#    details:
   - degree: M.S. in the School of Electrical and Electronic Engineering
     university: University of Yonsei
     time: 2020 - 2022
-    details:
+#    details:
   - degree: B.S. in the School of Electrical and Electronic Engineering
     university: Yonsei University
     time: 2014 - 2020
-    details:
+#    details:
 
 experiences:
   title: Experiences
@@ -127,8 +127,7 @@ certifications:
 
 projects:
   title: Projects
-  intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#  intro:
   assignments:
   - title: Velocity
     link: "#hook"
