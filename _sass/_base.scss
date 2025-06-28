@@ -191,7 +191,7 @@ p {
     margin-bottom: 2px;
     display: flex;
   }
-  .job-title,
+  .company,
   .degree,
   .cert-title,
   .recommendation-person {
@@ -211,7 +211,7 @@ p {
     color: $text-grey;
     flex: 25%;
   }
-  .company,
+  .job-title,
   .recommendation-role,
   .university,
   .cert-org {
