@@ -18,6 +18,7 @@ sidebar:
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
   website: https://ieeexplore.ieee.org/author/912254311560214 # Include the full website URL, including "http://" or "https://".
+    title: IEEE
   linkedin: https://linkedin.com/in/seung-jae-yang-22ba3831a
   gitlab:
   bitbucket:
