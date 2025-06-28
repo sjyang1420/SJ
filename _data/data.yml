@@ -56,15 +56,15 @@ career-profile:
 education:
   title: Education
   info:
-  - degree: Ph.D. in the School of Electrical and Electronic Engineering
+  - degree: Ph.D. in Electrical and Electronics
     university: University of Yonsei
     time: 2022 - 
 #    details:
-  - degree: M.S. in the School of Electrical and Electronic Engineering
+  - degree: M.S. in Electrical and Electronics
     university: University of Yonsei
     time: 2020 - 2022
 #    details:
-  - degree: B.S. in the School of Electrical and Electronic Engineering
+  - degree: B.S. in Electrical and Electronics
     university: Yonsei University
     time: 2014 - 2020
 #    details:
@@ -76,7 +76,7 @@ experiences:
     time: Oct.2023 - Nov. 2023
     company: IMEC, Belgium
     details: |
-      Researched low-noise transimpedance amplifier (TIA) design for optical receivers with emphasis on integration and noise reduction.
+      Designed low-noise TIA design for optical receivers with emphasis on integration and noise reduction.
   - role: Student Intern
     time: Apr.2021 - Oct.2021
     company: Qualitas Semiconductor, Korea
@@ -131,6 +131,7 @@ projects:
   assignments:
   - title: Development of Tbps/mm Interface IP and Silicon Photonics Applications for SoC Chiplet Interfaces  
 #    link: "#hook"
+    time: Apr.2023 – Dec.2025
     funder: The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)  
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
