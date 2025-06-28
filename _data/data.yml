@@ -129,9 +129,9 @@ projects:
   title: Projects
 #  intro:
   assignments:
-  - title: Development of Tbps/mm Interface IP and Silicon Photonics Applications for SoC Chiplet Interfaces
-    link: "#hook"
-    funder: The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)
+  - title: Development of Tbps/mm Interface IP and Silicon Photonics Applications for SoC Chiplet Interfaces  
+#    link: "#hook"
+    funder: The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)  
     tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
   - title: DevStudio
