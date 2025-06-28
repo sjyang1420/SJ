@@ -31,13 +31,14 @@
             {{ project.title }}
             {% endif %}
           </h4>
-          <div class="time">{{ project.time }}</div>
         </div><!--//upper-row-->
     
         {% if project.funder %}
         <div class="company">{{ project.funder }}</div>
         {% endif %}
-    
+        
+        <div class="time">{{ project.time }}</div>
+
         {% if project.tagline %}
         <div class="details">{{ project.tagline }}</div>
         {% endif %}
