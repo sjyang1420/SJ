@@ -50,75 +50,48 @@ sidebar:
 career-profile:
   title: Career Profile
   summary: |
-    I am a circuit engineer with cross-disciplinary experience in both electronic and photonic IC design through multiple tape-outs in CMOS, and SOI platforms.  
+    I am a circuit engineer with cross-disciplinary experience in both electronic and photonic IC design through multiple tape-outs in CMOS, and SOI platforms. 
     My work spans circuit design, silicon photonics, system integration, and packaging—including flip-chip bonding and optical alignments.Summarise your career here lorem ipsum dolor sit amet, consectetuer
 
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+    - degree: Ph.D. in the School of Electrical and Electronic Engineering
+    university: University of Yonsei
+    time: 2022 - 
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      .
         - Bullet point
         - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+  - degree: M.S. in the School of Electrical and Electronic Engineering
+    university: University of Yonsei
+    time: 2020 - 2022
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
+      .
+        - Bullet point
+        - Bullet point
+  - degree: B.S. in the School of Electrical and Electronic Engineering
+    university: Yonsei University
+    time: 2014 - 2020
+    details: |
+      .
         - Bullet point
         - Bullet point
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: Visiting Scholar
+    time: Oct.2023 - Nov. 2023
+    company: IMEC, Belgium
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Researched low-noise transimpedance amplifier (TIA) design for optical receivers with emphasis on integration and noise reduction.
+  - role: Student Intern
+    time: Apr.2021 - Oct.2021
+    company: Qualitas Semiconductor, Korea
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
-    details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Designed high-speed clock distribution circuits for SerDes.
+
 
 certifications:
   title: Certifications
