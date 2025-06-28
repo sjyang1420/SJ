@@ -21,15 +21,15 @@
 
   <div class="item">
     <div class="meta">
-      <div class="upper-row">
-        <h4 class="project-title" style="margin: 0; max-width: 75%;">
+      <div class="upper-row" style="display: flex; justify-content: space-between; align-items: baseline;">
+        <h4 class="project-title" style="margin: 0; max-width: 75%; line-height: 1.4;">
           {% if project.link %}
           <a href="{{ project.link }}" target="_blank">{{ project.title }}</a>
           {% else %}
           {{ project.title }}
           {% endif %}
         </h4>
-        <div class="time">{{ project.time }}</div>
+        <div class="time" style="margin-left: 10px; white-space: nowrap; line-height: 1.4;">{{ project.time }}</div>
       </div><!--//upper-row-->
   
       {% if project.funder %}
