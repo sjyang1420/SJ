@@ -129,23 +129,23 @@ projects:
   title: Projects
 #  intro:
   assignments:
-  - title: Development of Tbps/mm Interface IP and Silicon Photonics Applications for SoC Chiplet Interfaces  
+  - title: "Development of Tbps/mm Interface IP and Silicon Photonics Applications for SoC Chiplet Interfaces"
 #    link: "#hook"
     time: Apr.2023 – Dec.2025
-    funder: The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)  
+    funder: "The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)" 
     tagline: "Lead Contributor, circuit and photonic device design and the high density integration"
 
-  - title: Design and Implementation of High-Speed Transceiver and Temperature Controller IC Using Micro-Ring Modulator/Filter
+  - title: "Design and Implementation of High-Speed Transceiver and Temperature Controller IC Using Micro-Ring Modulator/Filter"
     time: Aug.2024 – Jul.2025
     funder: Samsung Advanced Institute of Technology (SAIT)
     tagline: "Research Engineer, photonic device integration and the heater controler design"
 
-  - title: Design and Implementation of High-Speed Micro-Ring Modulator Transmitter and Temperature Controller IC
+  - title: "Design and Implementation of High-Speed Micro-Ring Modulator Transmitter and Temperature Controller IC"
     time: Aug.2023 – Jul.2024
     funder: Samsung Advanced Institute of Technology (SAIT)
     tagline: "Research Engineer, circuit and photonic device design and integration"
 
-  - title: High-Speed SerDes: 100Gb/s Ultra-Fast SerDes PHY Design 
+  - title: "High-Speed SerDes: 100Gb/s Ultra-Fast SerDes PHY Design"
     time: Sep.2019 – Aug.2025
     funder: Samsung Electronics Foundry Division 
     tagline: "Research Engineer, high speed circuit design"
@@ -175,22 +175,22 @@ publications:
 #    bibendum fringilla a eu lectus.
   papers:
   
-  - title: An 80-Gb/s/pin Single-Ended Voltage-Mode PAM-4 Transmitter With a Pulsewidth Pre-Emphasis and a 4-Tap FFE in 28-nm CMOS
+  - title: "An 80-Gb/s/pin Single-Ended Voltage-Mode PAM-4 Transmitter With a Pulsewidth Pre-Emphasis and a 4-Tap FFE in 28-nm CMOS"
     link: "https://ieeexplore.ieee.org/document/10612820/"
     authors: Jae-Koo Park*, Dae-Won Rho*, Seung-Jae Yang, Woo-Young Choi
     conference: "IEEE Journal of Solid-State Circuits (JSSC, 2025)"
 
-  - title: A 4λ× 50-Gb/s Si Photonic WDM Transmitter with Code-Based Wavelength Calibration and Locking
+  - title: "A 4λ× 50-Gb/s Si Photonic WDM Transmitter with Code-Based Wavelength Calibration and Locking"
     link: "https://opg.optica.org/abstract.cfm?uri=OFC-2025-W1E.2"
     authors: Dae-Won Rho, Jae-Koo Park, YongJin Ji, Seung-Jae Yang, Woo-Young Choi
     conference: "Optical Fiber Communication Conference (OFC, 2025)"
   
-  - title: A 20 Gb/s CMOS Single-Chip 850 nm Optical Receiver
+  - title: "A 20 Gb/s CMOS Single-Chip 850 nm Optical Receiver"
     link: "https://ieeexplore.ieee.org/document/10463111/"
     authors: Seung-Jae Yang*, Jae-Ho Lee*; Myung-Jae Lee; Woo-Young Choi
     conference: "Journal of Lightwave Technology (JLT, 2024)"
 
-  - title: A 80Gb/s/pin Single-Ended PAM-4 Transmitter With an Edge Boosting Auxiliary Driver and a 4-Tap FFE in 28-nm CMOS
+  - title: "A 80Gb/s/pin Single-Ended PAM-4 Transmitter With an Edge Boosting Auxiliary Driver and a 4-Tap FFE in 28-nm CMOS"
     link: "https://ieeexplore.ieee.org/abstract/document/10347963/"
     authors: Dae-Won Rho, Jae-Koo Park, Seung-Jae Yang, Woo-Young Choi
     conference: "IEEE Asian Solid-State Circuits Conference (A-SSCC, 2023)"
