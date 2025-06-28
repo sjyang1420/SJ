@@ -17,7 +17,7 @@ sidebar:
   phone: 82 10 5571 9287
   timezone: Asia/Seoul # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://ieeexplore.ieee.org/author/912254311560214 # Include the full website URL, including "http://" or "https://".
+  website: https://scholar.google.com/citations?&authuser=1&user=4PSCMScAAAAJ
   linkedin: https://linkedin.com/in/seung-jae-yang-22ba3831a
   gitlab:
   bitbucket:
@@ -76,7 +76,7 @@ experiences:
     time: Oct.2023 - Nov. 2023
     role: IMEC, Belgium
     details: |
-      Designed low-noise TIA design for optical receivers with emphasis on integration and noise reduction.
+      Designed low-noise TIA design for optical receivers with emphasis on integration.
   - company: Student Intern
     time: Apr.2021 - Oct.2021
     role: Qualitas Semiconductor, Korea
@@ -133,23 +133,22 @@ projects:
 #    link: "#hook"
     time: Apr.2023 – Dec.2025
     funder: The Institute for Information & Communications Technology Planning & Evaluation (IITP, Republic of Korea)  
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    tagline: "Lead Contributor, circuit and photonic device design and the high density integration"
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: Design and Implementation of High-Speed Transceiver and Temperature Controller IC Using Micro-Ring Modulator/Filter
+    time: Aug.2024 – Jul.2025
+    funder: Samsung Advanced Institute of Technology (SAIT)
+    tagline: "Research Engineer, photonic device integration and the heater controler design"
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Design and Implementation of High-Speed Micro-Ring Modulator Transmitter and Temperature Controller IC
+    time: Aug.2023 – Jul.2024
+    funder: Samsung Advanced Institute of Technology (SAIT)
+    tagline: "Research Engineer, circuit and photonic device design and integration"
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: High-Speed SerDes: 100Gb/s Ultra-Fast SerDes PHY Design 
+    time: Sep.2019 – Aug.2025
+    funder: Samsung Electronics Foundry Division 
+    tagline: "Research Engineer, high speed circuit design"
 
 oss:
   title: OSS Contributions
@@ -170,25 +169,31 @@ oss:
 
 publications:
   title: Publications
-  intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+#  intro: |
+#    You can list your publications in this section. Lorem ipsum dolor sit
+#    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#    bibendum fringilla a eu lectus.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
+  
+  - title: An 80-Gb/s/pin Single-Ended Voltage-Mode PAM-4 Transmitter With a Pulsewidth Pre-Emphasis and a 4-Tap FFE in 28-nm CMOS
+    link: "https://ieeexplore.ieee.org/document/10612820/"
+    authors: Jae-Koo Park*, Dae-Won Rho*, Seung-Jae Yang, Woo-Young Choi
+    conference: "IEEE Journal of Solid-State Circuits (JSSC, 2025)"
 
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+  - title: A 4λ× 50-Gb/s Si Photonic WDM Transmitter with Code-Based Wavelength Calibration and Locking
+    link: "https://opg.optica.org/abstract.cfm?uri=OFC-2025-W1E.2"
+    authors: Dae-Won Rho, Jae-Koo Park, YongJin Ji, Seung-Jae Yang, Woo-Young Choi
+    conference: "Optical Fiber Communication Conference (OFC, 2025)"
+  
+  - title: A 20 Gb/s CMOS Single-Chip 850 nm Optical Receiver
+    link: "https://ieeexplore.ieee.org/document/10463111/"
+    authors: Seung-Jae Yang*, Jae-Ho Lee*; Myung-Jae Lee; Woo-Young Choi
+    conference: "Journal of Lightwave Technology (JLT, 2024)"
 
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: A 80Gb/s/pin Single-Ended PAM-4 Transmitter With an Edge Boosting Auxiliary Driver and a 4-Tap FFE in 28-nm CMOS
+    link: "https://ieeexplore.ieee.org/abstract/document/10347963/"
+    authors: Dae-Won Rho, Jae-Koo Park, Seung-Jae Yang, Woo-Young Choi
+    conference: "IEEE Asian Solid-State Circuits Conference (A-SSCC, 2023)"
 
 recommendations:
   title: Recommendations
