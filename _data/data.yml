@@ -59,24 +59,15 @@ education:
     - degree: Ph.D. in the School of Electrical and Electronic Engineering
     university: University of Yonsei
     time: 2022 - 
-    details: |
-      .
-        - Bullet point
-        - Bullet point
+    details:
   - degree: M.S. in the School of Electrical and Electronic Engineering
     university: University of Yonsei
     time: 2020 - 2022
-    details: |
-      .
-        - Bullet point
-        - Bullet point
+    details:
   - degree: B.S. in the School of Electrical and Electronic Engineering
     university: Yonsei University
     time: 2014 - 2020
-    details: |
-      .
-        - Bullet point
-        - Bullet point
+    details:
 
 experiences:
   title: Experiences
@@ -129,7 +120,7 @@ certifications:
       adipiscing elit.
       Nullam eget orci purus. Nullam ultrices neque nibh.
       Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
+      sem enim bibendum augue, sed convallis arcu lacus at dui.e
       Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
       Praesent felis nibh, eleifend id eleifend id, dictum id enim.
       Praesent venenatis erat non augue suscipit consectetur.
