@@ -72,14 +72,14 @@ education:
 experiences:
   title: Experiences
   info:
-  - role: Visiting Scholar
+  - company: Visiting Scholar
     time: Oct.2023 - Nov. 2023
-    company: IMEC, Belgium
+    role: IMEC, Belgium
     details: |
       Designed low-noise TIA design for optical receivers with emphasis on integration and noise reduction.
-  - role: Student Intern
+  - company: Student Intern
     time: Apr.2021 - Oct.2021
-    company: Qualitas Semiconductor, Korea
+    role: Qualitas Semiconductor, Korea
     details: |
       Designed high-speed clock distribution circuits for SerDes.
 
