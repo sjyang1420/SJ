@@ -178,6 +178,11 @@ publications:
 #    bibendum fringilla a eu lectus.
   papers:
   
+  - title: "A Si Photonic WDM Receiver with Micro-Ring Resonator Crosstalk Cancellation"
+    link: ""
+    authors: Seung-Jae Yang*, YongJin Ji*, Dae-Won Rho, Jae-Ho Lee, Woo-Young Choi
+    conference: "European Conference on Optical Communication (ECOC, 2025)"
+  
   - title: "An 80-Gb/s/pin Single-Ended Voltage-Mode PAM-4 Transmitter With a Pulsewidth Pre-Emphasis and a 4-Tap FFE in 28-nm CMOS"
     link: "https://ieeexplore.ieee.org/document/10612820/"
     authors: Jae-Koo Park*, Dae-Won Rho*, Seung-Jae Yang, Woo-Young Choi
