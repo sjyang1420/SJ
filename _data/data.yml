@@ -23,7 +23,7 @@ sidebar:
   bitbucket:
   codewars:
 
-  pdf: # Add a PDF link here if you want to include a PDF custom version in your resume.
+  pdf: https://docs.google.com/document/d/1X3r1KxAbnuC-Qbgp9iGg9NVdlBPAo0zXQePQ-ZqP5C4/edit?usp=sharing
 
   languages:
     title: Languages
@@ -141,7 +141,7 @@ projects:
   - title: "Design and Implementation of High-Speed Transceiver and Temperature Controller IC Using Micro-Ring Modulator/Filter"
     time: Aug.2024 – Jul.2025
     funder: Samsung Advanced Institute of Technology (SAIT)
-    tagline: "Research Engineer, photonic device integration and the heater controler design"
+    tagline: "Research Engineer, photonic device integration and the heater controller design"
 
   - title: "Design and Implementation of High-Speed Micro-Ring Modulator Transmitter and Temperature Controller IC"
     time: Aug.2023 – Jul.2024
