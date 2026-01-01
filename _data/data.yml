@@ -176,6 +176,25 @@ publications:
 #    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #    bibendum fringilla a eu lectus.
   papers:
+  - title: "25 Gb/s 850 nm Monolithic Optical Receiver With a Si APD Bias Controller Using Histogram Monitoring"
+    link: ""
+    authors:   Jae-Ho Lee*, Seung-Jae Yang*, Myung-Jae Lee, Woo-Young Choi
+    conference: "IEEE Journal of Solid-State Circuits (JSSC, under minor review)"
+  
+  - title: "Crosstalk-Resilient Wavelength Locking for Si Micro-Ring-Resonator-Based Ultra-Dense WDM Receivers"
+    link: ""
+    authors: Seung-Jae Yang*, Yongjin Ji*, Daewon Rho, Jae-Ho Lee, Woo-Young Choi
+    conference: "Optical Fiber Communication Conference (OFC, 2026)"
+
+  - title: "Modulation Crosstalk Cancellation for Ultra-Dense WDM Silicon Photonic MRM Transmitters"
+    authors:  Yongjin Ji, Daewon Rho, Seung-Jae Yang, Woo-Young Choi
+    link: ""
+    conference: "Optical Fiber Communication Conference (OFC, 2026)"
+  
+  - title:  "A 224-Gb/s Si-Photonic WDM Transmitter with Code-Based Calibration for Simultaneous OMA Locking and RLM Optimization"
+    link: ""
+    authors: Daewon Rho, Seung-Jae Yang, Yongjin Ji, Jae-Koo Park, Woo-Young Choi
+    conference: "Optical Fiber Communication Conference (OFC, 2026)"
   
   - title: "A Si Photonic WDM Receiver with Micro-Ring Resonator Crosstalk Cancellation"
     link: ""
@@ -194,7 +213,7 @@ publications:
   
   - title: "A 20 Gb/s CMOS Single-Chip 850 nm Optical Receiver"
     link: "https://ieeexplore.ieee.org/document/10463111/"
-    authors: Seung-Jae Yang*, Jae-Ho Lee*; Myung-Jae Lee; Woo-Young Choi
+    authors: Seung-Jae Yang*, Jae-Ho Lee*, Myung-Jae Lee, Woo-Young Choi
     conference: "Journal of Lightwave Technology (JLT, 2024)"
 
   - title: "A 80Gb/s/pin Single-Ended PAM-4 Transmitter With an Edge Boosting Auxiliary Driver and a 4-Tap FFE in 28-nm CMOS"
