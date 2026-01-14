@@ -179,7 +179,7 @@ publications:
   - title: "25 Gb/s 850 nm Monolithic Optical Receiver With a Si APD Bias Controller Using Histogram Monitoring"
     link: ""
     authors:   Jae-Ho Lee*, Seung-Jae Yang*, Myung-Jae Lee, Woo-Young Choi
-    conference: "IEEE Journal of Solid-State Circuits (JSSC, under minor review)"
+    conference: "IEEE Journal of Solid-State Circuits (JSSC, accepted)"
   
   - title: "Crosstalk-Resilient Wavelength Locking for Si Micro-Ring-Resonator-Based Ultra-Dense WDM Receivers"
     link: ""
@@ -197,7 +197,7 @@ publications:
     conference: "Optical Fiber Communication Conference (OFC, 2026)"
   
   - title: "A Si Photonic WDM Receiver with Micro-Ring Resonator Crosstalk Cancellation"
-    link: ""
+    link: "https://ieeexplore.ieee.org/document/11263075"
     authors: Seung-Jae Yang*, YongJin Ji*, Dae-Won Rho, Jae-Ho Lee, Woo-Young Choi
     conference: "European Conference on Optical Communication (ECOC, 2025)"
   
